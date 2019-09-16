@@ -1,4 +1,4 @@
-# HDFS-mp4-player
+# HDFS-video-player
 
 * Play mp4 file on HDFS by Go(Beego) and WebHDFS in WebBrowser.
 * Support multi HDFS cluster.
