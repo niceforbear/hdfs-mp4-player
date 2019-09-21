@@ -1,6 +1,6 @@
 # HDFS-video-player
 
-* Play mp4 file on HDFS by Go(Beego) and WebHDFS in WebBrowser.
+* Play mp4 file in HDFS by Go(Based on Beego framework) and WebHDFS in WebBrowser.
 * Support multi HDFS cluster.
 
 ### Implements
@@ -31,3 +31,8 @@ ffmpeg command which could make metadata in front of mp4:
 ### License
 
 The MIT License (MIT). Please see License File for more information.
+
+### Reference
+
+* Beego framework: https://beego.me/
+* WebHDFS: https://hadoop.apache.org/docs/r1.0.4/webhdfs.html
